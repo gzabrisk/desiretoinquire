@@ -8,7 +8,7 @@ One month ago, I made the rather big decision (for me at least) to quit my maste
 Here are some of the posts I plan to publish in the coming weeks:
 
 - More details of why I quit my masters (aka my philosophy of learning)
-- The meaning of "desire to inquire" and the importances of inquiring to learning
+- The meaning of "desire to inquire" and the importance of inquiring to learning
 - The inspirational people in my life–my mentors, teachers, and examples 
 
 As a web designer, and the architect of this site design, I also plan to enhance the look and funcionality of this site over time. Some things to come:
