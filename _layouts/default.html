@@ -1,16 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge" >
-	<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=1' />
+{% include header.html %}
 
-	<title>Desire to Inquire: A blog about one man's quest to become a self-directed learner</title>
+<article class="post">
+	<h1>{{ page.title }}</h1>
+	<p class="date">{{ page.date | date: "%B %d, %Y" }}</p>
+	{{ content }}
+</article>
 
-	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css' />
-	<link rel="stylesheet" href="css/style.css" />
-</head>
-<body>
-{{ content }}
-</body>
-</html>
+{% include footer.html %}
