@@ -1,7 +1,7 @@
 exclude: [Gemfile, Gemfile.lock, CNAME, README.md]
 name: Desire to Inquire
 description: "A blog about one man's quest to become a self-directed learner"
-url: http://desiretoinqure.com
+url: http://desiretoinquire.com
 sass:
     sass_dir: _scss
     style: compact

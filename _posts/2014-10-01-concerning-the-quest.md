@@ -18,4 +18,4 @@ As a web designer, and the architect of this site design, I also plan to enhance
 - More images and possibly some more texture
 - The ability to comment on posts
 
-Thanks for joining me! Stay turned for weekly posts and free free to <a href="http://desiretoinqire.com/feed.xml">subscribe</a> if you're a RSSer!
+Thanks for joining me! Stay turned for weekly posts and free free to <a href="http://desiretoinquire.com/feed.xml">subscribe</a> if you're a RSSer!
