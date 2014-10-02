@@ -3,7 +3,7 @@ title: Concerning the Quest
 ---
 Welcome to the first post of <a href="http://desiretoinquire.com">Desire to Inquire</a>, a blog about my personal quest to become a (more) self-directed learner.
 
-One month ago, I made the rather big decision (for me at least) to quit my masters program. This blog is meant to act as a sounding board and journal as I embark on a new but life-long journey to become a wholy self-educated person. I'm look forward to sharing and swapping insights with my readers and providing encourgement and resources to those who are interested in making the most of their learning through self-motivated questioning and research.
+One month ago, I made the rather big decision (at least for me) to quit my masters program and embark on a new but life-long quest to become a wholy self-educated person. Though this blog, I plan to document what I'm learning about self-directed-learning. I look forward to sharing and swapping insights with you and hope to become resource to those who are are on this journey with me.
 
 Here are some of the posts I plan to publish in the coming weeks:
 
