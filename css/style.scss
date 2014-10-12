@@ -124,6 +124,19 @@ a {
 
 	li { margin: 0 0 .5em; }
 
+	em { font-style: italic; }
+
+	strong { font-weight: bold; }
+
+	.notice {
+		font-size: 0.9em;
+		background: #eee;
+		border: 1px solid #ddd;
+		padding: 1.5em;
+		border-radius: 3px;
+		margin-bottom: 2em;
+	}
+
 }
 
 .post {
@@ -144,7 +157,12 @@ a {
 			padding: 0;
 		}
 	}
+
+	.readon {
+		text-align: center;
+	}
 }
+
 
 @media screen and (min-width: 500px) {
 	.site-header {
